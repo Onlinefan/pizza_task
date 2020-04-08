@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Margherita",
+        "cost": 8.50,
+        "preview": "Tomato sauce, mozzarella, and oregano",
+        "description": "Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil. Traditionally, it is made with fior di latte (cow's milk mozzarella) rather than buffalo mozzarella.",
+        "img_url": "/assets/pizza/img/margherita.jpg"
+    },
+    {
+        "name": "Marinara",
+        "cost": 6.00,
+        "preview": "Tomato sauce, garlic and basil",
+        "description": "Pizza marinara is a style of Neapolitan pizza in Italian cuisine prepared with plain marinara sauce and seasoned with oregano and garlic. It is very similar to a Pizza Margherita, however it lacks the typical Mozzarella or other cheeses.",
+        "img_url": "/assets/pizza/img/marinara.jpg"
+    },
+    {
+        "name": "Quattro Stagioni",
+        "cost": 7.33,
+        "preview": "Tomato sauce, mozzarella, mushrooms, ham, artichokes, olives, and oregano",
+        "description": "Pizza quattro stagioni (four seasons pizza) is a variety of pizza in Italian cuisine that is prepared in four sections with diverse ingredients, with each section representing one season of the year. Artichokes represent spring, tomatoes or basil represent summer, mushrooms represent autumn and the ham, prosciutto or olives represent winter. It is a very popular pizza in Italy, and has been described as a \"classic\", \"famous\" and \"renowned\" Italian pizza. It is a variant of pizza capricciosa.",
+        "img_url": "/assets/pizza/img/quattro_stagioni.jpg"
+    },
+    {
+        "name": "Frutti di Mare",
+        "cost": 9.99,
+        "preview": "Tomato sauce and seafood",
+        "description": "Seafood pizza is pizza prepared with seafood as a primary ingredient. Many types of seafood ingredients in fresh, frozen or canned forms may be used on seafood pizza. Some retail pizza chains, as well as smaller restaurants, offer seafood pizzas to consumers.",
+        "img_url": "/assets/pizza/img/seafood.jpg"
+    },
+    {
+        "name": "Napoletana",
+        "cost": 10.20,
+        "preview": "Tomato sauce, mozzarella, oregano, anchovies",
+        "description": "Neapolitan pizza (Italian: pizza napoletana) also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese. It must be made with either San Marzano tomatoes or Pomodorino del Piennolo del Vesuvio, which grow on the volcanic plains to the south of Mount Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of Campania and Lazio in a semi-wild state and “Fior di Latte di Agerola”, a cow milk mozzarella made exclusively in the Agerola comune. Neapolitan pizza is a Traditional Speciality Guaranteed (TSG) product in Europe, and the art of its making is included on UNESCO's list of intangible cultural heritage. This style pizza gave rise to the New York-style pizza that was first made by Italian immigrants to the United States in the early 20th century.",
+        "img_url": "/assets/pizza/img/napoletana.jpg"
+    },
+    {
+        "name": "Calzone",
+        "cost": 11.15,
+        "preview": "Tomato sauce, mozzarella, ham, mushrooms, artichokes, anchovies, and oregano.",
+        "description": "A calzone is an Italian oven-baked folded pizza that originated in Naples in the 18th century. A typical calzone is made from salted bread dough, baked in an oven and is stuffed with salami, ham or vegetables, mozzarella, ricotta and Parmesan or pecorino cheese, as well as an egg. Different regional variations in or on a calzone can often include other ingredients that are normally associated with pizza toppings. The term usually applies to an oven-baked turnover rather than a fried pastry (i.e. panzerotti), though calzoni and panzerotti are often mistaken for each other. A calzone is somewhat similar to a stromboli. A calzone is a baked turnover stuffed with pizza ingredients. A stromboli is usually made by rolling up dough with cheese and meat ingredients and is then baked, but it does not generally contain pizza ingredients aside from cheese and Italian meats. Generally, strombolis do not usually contain tomato sauce, unlike calzones. A calzone is crescent-shaped, and a stromboli is usually shaped like a long cylinder. The distinction between the two is complicated because there is some variation in what constitutes a stromboli.",
+        "img_url": "/assets/pizza/img/calzone.jpg"
+    },
+    {
+        "name": "Capricciosa",
+        "cost": 5.50,
+        "preview": "Tomato sauce, mozzarella, ham, artichokes, mushrooms, and olives",
+        "description": "Pizza capricciosa is a style of pizza in Italian cuisine prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato. Types of edible mushrooms used may include cremini (white mushrooms) and others. Some versions may also use prosciutto (a dry-cured ham), marinated artichoke hearts, olive oil, olives, basil leaves, and egg. Some versions may be prepared using a thin crust. Although it has similar ingredients as pizza quattro stagioni, they are arranged differently.",
+        "img_url": "/assets/pizza/img/capricciosa.jpg"
+    },
+    {
+        "name": "Pugliese",
+        "cost": 9.25,
+        "preview": "Tomato sauce, mozzarella, oregano, and onions",
+        "description": "Pizza pugliese is a style of pizza in Italian cuisine prepared with tomato, onion, and mozzarella. It is named after the region of Apulia (called in Italian Puglia). It should not be confused with pizza barese, the local Barese variant of preparing the pizza dough, which tends to be thinner and crispier than pizza napoletana.",
+        "img_url": "/assets/pizza/img/pugliese.jpg"
+    }
+]
